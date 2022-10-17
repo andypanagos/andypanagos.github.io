@@ -117,7 +117,7 @@ footer {
 
 /* Texts over the video */
 .Video_Text {
-    background: maroon; 
+    background: black; 
     color: white; /* Makes the font color white */
     width: 100%; /* Ensures the video-text container fills the width of the video */
     padding: 20px; /* This adds padding around the video-text container so that the background goes slightly beyond the text */
@@ -160,7 +160,7 @@ footer {
     padding: 10px;
     padding-top: 1.9%;
     height: 400px;
-    background-color: maroon;
+    background-color: black;
 }
 
 /* This class is applied to the columns in the final row, overriding the height and padding to provide more room for the contact form  while keeping the rest of the formatting from Column_1 or Column_2 */
@@ -300,7 +300,7 @@ button:hover, .form-container .btn:hover {
 
 .form-container .cancel:hover {
     color: white;
-    background-color: darkred;
+    background-color: black;
     transition-duration: 1s;
     -webkit-transition-duration: 1s;
     border-color: black;
